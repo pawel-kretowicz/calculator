@@ -1,4 +1,4 @@
-package com.leszko.calculator;
+package com.pawel.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
